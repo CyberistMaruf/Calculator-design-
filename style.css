@@ -1,0 +1,325 @@
+*{
+    font-family: "Outfit", sans-serif;
+;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.parents{
+    background-color: rgb(34,34,50);
+    width: 500px;
+    height: 800px;
+    
+   
+
+}
+
+.mathsection{
+    background-color: rgb(47,49,70) ;
+    padding: 10px;
+}
+.fristline{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+}
+
+.calculatearea{
+    margin-top: 200px;
+    background-color: rgb(73,92,135);
+    width: 500px;
+    height: 10px;
+    border: none;
+    
+}
+
+
+.c{ 
+    
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    text-align: center;
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    
+ 
+    
+}
+
+
+
+
+.fristroundbracket{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+
+
+}
+
+.secondroundbracket{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+
+}
+
+.parsent{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+
+    }
+
+.seven{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+
+.secondline{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    
+}
+
+.eight{
+    color: white;
+    font-size: 70px;
+    background-color:rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.nine{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.plus{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+}
+
+
+.thirdline{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+.four{
+    color: white;
+    font-size: 70px;
+    background-color:rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.five{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.six{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.minus{
+    color: white;
+    font-size: 60px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+}
+
+.fourthline{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+
+}
+
+.one{
+    color: white;
+    font-size: 70px;
+    background-color:rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.two{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+.three{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.multiply{
+    color: white;
+    font-size: 80px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+}
+
+.lastline{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+    
+
+
+.point{
+    color: white;
+    font-size: 50px;
+    background-color:rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50);
+    text-align: center;
+}
+
+.zero{
+    color: white;
+    font-size: 70px;
+    background-color:rgb(34,34,50);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(34,34,50) ;
+    text-align: center;
+}
+
+.equal{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(255, 174, 0);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(255, 174, 0 );
+    text-align: center;
+}
+
+.devide{
+    color: white;
+    font-size: 70px;
+    background-color: rgb(123,126,159);
+    width: 90px;
+    height: 90px;
+    
+    border-radius: 100px;
+    border: 2px solid rgb(123,126,159 );
+    text-align: center;
+}
+
+
+
